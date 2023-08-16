@@ -2,3 +2,4 @@ torch
 git+https://github.com/PrithivirajDamodaran/Gramformer.git
 spacy
 streamlit
+gramformer
